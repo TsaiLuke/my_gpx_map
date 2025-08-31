@@ -1,5 +1,6 @@
 # Route Map (GitHub Pages)
 
+
 This repository hosts an interactive hiking map built with Folium.
 
 ## Quick publish
